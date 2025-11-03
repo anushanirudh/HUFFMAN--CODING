@@ -31,7 +31,7 @@ print the characters and its huffmancode.
 # expt-11-huffman coding
 
 # Step 1: Get the input string
-input_string = "Prem Singh Dhoni"  # Example input string
+input_string = "huffman coding"  # Example input string
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
 for char in input_string:
